@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Fatal.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Azoth.Properties.Resources.resources
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Fatal.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Fatal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\fatal scripts\bin\Debug\Azoth.exe
+C:\Users\Administrator\Desktop\fatal scripts\bin\Debug\Azoth.pdb
+C:\Users\Administrator\Desktop\fatal scripts\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\fatal scripts\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\fatal scripts\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Azoth.exe
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Azoth.pdb
+C:\Users\Administrator\Desktop\fatal scripts\obj\Debug\Fatal.Menu.resources
